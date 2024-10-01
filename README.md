@@ -41,6 +41,7 @@ Based on the user taste analysis, the app generated song recommendations by quer
 Recommended songs were displayed to users, who could choose to add them to the playlist directly from the app.
 
 4. Frontend Design
+
 The frontend was designed using HTML and CSS to provide an intuitive interface where users could view the playlists, suggested songs, and add them to the playlist with just a few clicks.
 # Challenges and Learning Outcomes
 
