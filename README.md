@@ -47,6 +47,6 @@ The frontend was designed using HTML and CSS to provide an intuitive interface w
 
 API Integration: Understanding and working with the Spotify API was challenging but rewarding. We had to carefully manage API requests, handle authentication tokens, and ensure data was correctly fetched and processed.
 
-User Data Processing: Designing the recommendation algorithm to analyze user tastes and provide relevant song suggestions required careful consideration of Spotify’s audio features and a deep understanding of data structures in JavaScript.
+User Data Processing: Designing the recommendation algorithm to analyze user tastes and provide relevant song suggestions required careful consideration of Spotify’s audio features and a deep understanding of data structures in Java.
 
 Collaborative Development: Working as a group to develop an application that integrated frontend and backend functionality using JavaScript, HTML, and CSS helped reinforce collaborative coding and version control practices.
